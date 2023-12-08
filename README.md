@@ -10,9 +10,9 @@ Welcome to the Cypress Viewport Examples repository! This repository contains ex
   - [Mobile Viewport](#mobile-viewport)
   - [Tablet Viewport](#tablet-viewport)
   - [Desktop Viewport](#desktop-viewport)
-  - [Multiple viewports](#Multiple viewports)
-  - [Configuration overwrite](#Configuration overwrite)
-  - [LambdaTest Cloud](#LambdaTest Cloud)
+  - [Multiple viewports](#multiple-viewports)
+  - [Configuration overwrite](#configuration-overwrite)
+  - [LambdaTest Cloud](#lambdatest-cloud)
 - [License](#license)
 
 ## Introduction
